@@ -1,0 +1,142 @@
+body{ margin:0;
+    
+
+}
+
+image{
+    max-width:100%;
+}
+.blog_section{
+    padding: 0px 0px;
+    padding-bottom: 8px;
+}
+.wrapper{
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.col{
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.blog{
+    padding: 20px;
+    box-shadow: 5px;
+    box-shadow: 5px 5px 8px #6e6868;
+}
+.blog img{
+    width: 200px;
+    height: 300px;
+}
+.blog h3{
+    color: red;
+    margin: 0;
+}
+.blog p{
+    margin;
+    margin: 0;
+    margin-top: 5px;
+}
+.purple{ background-color:#FFFFFF; }
+.grey{background-color: #efc5c5a3;}
+.yellow{background-color: #f1f1f1;}
+
+.writing{padding: 0px;margin: 0 auto;}
+.column{
+    width: 50%;
+    float: left;
+    padding: 4px;
+    box-sizing: border-box;
+    /* margin: 0 auto; */
+}
+.feature{
+    padiing: 5px;
+    padding: 5px;
+    text-align: justify;
+    text-align: justify;
+}
+.feature h3{
+    margin: 0;
+}
+h1{font size: 20px;font-size: 40px;margin-bottom: 0;margin-top: 0px;line-height: normal;}
+.feature h1 span{ color:red; }
+.feature p{
+    font-size: 30;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration-style: dashed;
+}
+.align_right{
+    text-align: ju;
+    text-align: right;
+}
+
+
+.image_section{
+    padding: 10px;
+}
+.chobi{}
+.chobi img{
+    /* text-align: center; */
+    display: black;
+    dispay: block;
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+    /* height: 200px; */
+}
+
+.lekha{
+    padding-bottom: 20px;
+    padding-top: 8px;
+}
+.ufre{
+    text-align: center;
+}
+.ufre h1{
+    margin: 0;
+}
+.ufre h1 span{color:blue;}
+.ufre p{
+    margin: 0;
+    font-size: 17px;
+    text-decoration-style: double;
+}
+
+
+header{
+    /* padding: 8px; */
+    box-shadow: 0px 5px 3px #44587336;
+}
+.logo{
+    width: 20%;
+    float: left;
+    padding-top: 3px;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: right;
+    margin-top: 5px;
+}
+nav ul{
+    margin: 0;
+}
+nav ul li{
+    float: right;
+    margin: 10px;
+    list-style-type: none;
+}
+nav ul li a{
+    font-size: 20px;
+    color: #3b506c;
+    text-decoration: none;
+    cursor: help;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+    color:red;
+}
